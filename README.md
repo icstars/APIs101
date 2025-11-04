@@ -1,6 +1,6 @@
 # APIs101
 Repo for Tech Foundations APIs 101
-# Workshop A – APIs 101
+# Tech Foundations – APIs 101
 
 This repository supports the **APIs 101 workshop**, where learners practice calling endpoints, parsing JSON, and handling errors using both **Postman** and **JavaScript**.
 
